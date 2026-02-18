@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Lecture 2 - Optimization Review"
             }
+          },
+          {
+            "id": "2148264c35ce78df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 3 - Joint Capacity and Dispatch Optimisation in One Node.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 - Joint Capacity and Dispatch Optimisation in One Node"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 2 - Optimization Review.md",
+                "file": "Lecture 1 - Balancing Renewable Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 2 - Optimization Review"
+              "title": "Backlinks for Lecture 1 - Balancing Renewable Generation"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 2 - Optimization Review.md",
+                "file": "Lecture 1 - Balancing Renewable Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 2 - Optimization Review"
+              "title": "Outgoing links from Lecture 1 - Balancing Renewable Generation"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 2 - Optimization Review.md",
+                "file": "Lecture 1 - Balancing Renewable Generation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 2 - Optimization Review"
+              "title": "Outline of Lecture 1 - Balancing Renewable Generation"
             }
           }
         ]
@@ -198,10 +212,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "dbd5c61dba9a3a49",
+  "active": "2148264c35ce78df",
   "lastOpenFiles": [
-    "Lecture 1 - Balancing Renewable Generation.md",
     "Lecture 2 - Optimization Review.md",
+    "Lecture 3 - Joint Capacity and Dispatch Optimisation in One Node.md",
+    "Lecture 3 -",
+    "Lecture 1 - Balancing Renewable Generation.md",
     "Welcome.md",
     "desktop.ini"
   ]
